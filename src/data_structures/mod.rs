@@ -1,2 +1,2 @@
 pub mod lists;
-pub mod stacks;
+pub mod stack;
