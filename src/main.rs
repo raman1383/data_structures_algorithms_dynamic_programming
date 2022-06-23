@@ -1,3 +1,3 @@
 pub mod data_structures;
-pub mod memoization;
+pub mod dynamic_programming;
 fn main() {}
